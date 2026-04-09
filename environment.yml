@@ -1,0 +1,6 @@
+name: scheme-env
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - guile_kernel
